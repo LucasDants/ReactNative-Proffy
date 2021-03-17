@@ -1,0 +1,12 @@
+{
+  "name": "proffymobile",
+  "displayName": "proffymobile",
+  "expo": {
+    "name": "proffymobile",
+    "slug": "proffymobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
